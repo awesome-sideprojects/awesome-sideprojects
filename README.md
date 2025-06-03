@@ -11,6 +11,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
 - [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
 - [Nazca](https://nazca.my) - App Submission & Discovery Website
+- [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 
 ## 🛸 UFO Sightings
 
