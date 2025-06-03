@@ -6,7 +6,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🎩 Magical Mushrooms
 
 - [PostCapture](https://postcapture.com) - Take beautiful screenshots of X posts
-- [HextaUI](https://hextaui.com) - Build stunning websites effortlessly 
+- [HextaUI](https://hextaui.com) - Build stunning websites effortlessly
 - [React Wheel Picker](https://react-wheel-picker.chanhdai.com) - iOS-like Wheel Picker for React
 - [chanhdai.com](https://chanhdai.com) - Minimal portfolio website. Inspired by tailwindcss.com (v4)
 - [Temp Mail Detector](https://tempmaildetector.com) - Block disposable emails with real-time detection.
@@ -19,6 +19,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🦄 Unicorn Sightings
 
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
+- [Leoline](https://leoline.fun) - Magical stories for curious kids
 
 ## 🍕 Pizza Archaeology
 
@@ -44,8 +45,9 @@ Want to add your project? Awesome!
 
 1️⃣ Fork this repository  
 2️⃣ Add your project to one of these **random categories** above (don't worry if it doesn't make sense!)  
-3️⃣ Make sure your project has:  
-- A working app (paid or free – doesn't matter!)  
+3️⃣ Make sure your project has:
+
+- A working app (paid or free – doesn't matter!)
 - An English landing page
 
 4️⃣ Submit a pull request and watch your backlinks fly 🚀
