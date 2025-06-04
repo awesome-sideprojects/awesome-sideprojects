@@ -15,6 +15,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🛸 UFO Sightings
 
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
+- [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 
 ## 🦄 Unicorn Sightings
 
