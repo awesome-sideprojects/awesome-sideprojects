@@ -15,6 +15,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Made with Lovable](https://madewithlovable.com) - A collection of apps and websites made with Lovable
 - [Peaceful Mindful Pocket](https://peacefulmindfulpocket.com) - Brokie no more; You shall be.
 - [Gotthard Road Tunnel Traffic](https://gotthard-tunnel.com/en/home) - Real-time traffic updates for Gotthard Tunnel.
+- [Listing Cat]([https://www.listingcat.com) - Marketing Database for startups and indie hackers
 
 ## 🛸 UFO Sightings
 
