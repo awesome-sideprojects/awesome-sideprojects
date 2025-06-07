@@ -46,6 +46,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
 - [GIF.new](https://www.gif.new/) - Instantly capture and create personal response GIFs.
+- [Fyzz.chat](https://www.fyzz.chat/chat) - All of the best language models in one place
 
 ## 🎸 Air Guitar Championships
 
