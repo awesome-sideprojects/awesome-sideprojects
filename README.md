@@ -60,6 +60,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
 - [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
 - [Follow Monday](https://followmonday.com) - Discover active individuals on socials
+- [hustle2grand](https://hustle2grand.vercel.app) - A summer challenge to earn your first £1k online
 
 ---
 
