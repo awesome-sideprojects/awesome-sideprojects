@@ -41,6 +41,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [DocPilot](https://docpilot.dev/) - Beautiful, interactive API docs right from your codebase
 - [Leoline](https://leoline.fun) - Magical stories for curious kids
 - [Latwy](https://latwy.co) - Track your finances in Notion automatically.
+- [supastarter](https://supastarter.dev) - The production-ready and scalable SaaS starter kit for Next.js, Nuxt and SvelteKit
 
 ## 🍕 Pizza Archaeology
 
