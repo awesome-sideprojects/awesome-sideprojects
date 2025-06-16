@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [TurboStarter](https://www.turbostarter.dev) - the Next.js, React Native (Expo) and WXT (Vite) SaaS production-ready starter kit. Launch your web, mobile app and browser extension with one-click boilerplate.
 - [Online Side Hustles Directory](https://esidehustles.com) - Browse 370+ side hustle ideas, work-from-home opportunities, and easy ways to make money fast.
 - [Content Redefined AI](https://www.contentredefined.ai) - 1-click AI blog/article generation. SEO-optimised, AI images, SERP research included.
 - [The Influencer AI](https://www.theinfluencer.ai) - Create *consistent* AI personas and use them for photos, videos, try-ons and product images.
@@ -26,6 +27,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🛸 UFO Sightings
 
+- [SyncReads](https://syncreads.com) - Organize all the web content in one place. Save time on ads and distractions. Replace multiple apps. Read offline and sync your library across devices, anytime, anywhere.
 - [What The Food](https://whatthefood.io) - AI Food Detector That Serves As Shazam But For Meals. 
 - [Byte Back](https://byteback.pro) - SaaS Customer Retention Platform with Cashback
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
@@ -37,6 +39,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🦄 Unicorn Sightings
 
+- [Envin](https://envin.turbostarter.dev) - Framework-agnostic, type-safe tool to validate and preview your environment variables - powered by your favorite schema validator.
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [Biz2Buzz](https://biz2buzz.in) - Your E Visiting Card! Express who are you, what you have, why to reach you with easy QR and vCard download
 - [DecipherSEO](https://decipherseo.com) - Your SEO solution for Ecommerce, Create SEO Optimized Products from images.
@@ -47,6 +50,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🍕 Pizza Archaeology
 
+- [Extro](https://git.new/extro) - Open source browser extension starter kit 🧩
 - [GptWatermarkRemover](https://gpt-watermark-remover.com) - Remove invisible watermarks from GPT text content
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
 - [PizzaTime](https://pizza-time.app) - Say "thanks" to your teammates with a slice of pizza 🍕
