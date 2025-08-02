@@ -46,6 +46,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🦄 Unicorn Sightings
 
+- [seofordev](https://seofor.dev) - CLI-first SEO for indiehackers who want to rank from Day 1.
 - [Envin](https://envin.turbostarter.dev) - Framework-agnostic, type-safe tool to validate and preview your environment variables - powered by your favorite schema validator.
 - [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [Biz2Buzz](https://biz2buzz.in) - Your E Visiting Card! Express who are you, what you have, why to reach you with easy QR and vCard download
