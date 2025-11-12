@@ -45,6 +45,8 @@ We group projects into random categories that have absolutely nothing to do with
 - [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator
 - [FoundersWall](https://www.founderswall.com) - A raw public board where indie founders log their wins, fails, and chaos. No likes. No hype. Just building in public, for real.
 - [Peeonauts](https://peeonauts.com/) - Live from Space: Real-time monitoring of the International Space Station's urine, waste water, and clean water tank levels.
+- [ShipAhead](https://shipahe.ad) - Skip the setup and start building what matters with a ready-to-ship Nuxt boilerplate built to help you ship ahead, save time, and focus on your product.
+- [BorderPrep](https://borderprep.com) - Get instant pre-arrival details for your destination — visa rules, entry cards, weather, and essentials, all tailored to the country you are flying to
 
 ## 🦄 Unicorn Sightings
 
