@@ -4,7 +4,7 @@ A fun and slightly chaotic list of **Awesome Sideprojects**.
 We group projects into random categories that have absolutely nothing to do with what they actually do. Why? Because it's fun and different! 🎉
 
 ## 🎩 Magical Mushrooms
-
+- [FlowDeck Studio](https://flowdeck.studio) - Build iOS & macOS Apps with AI in Cursor
 - [ConfettiSaaS](https://confettisaas.com) - Showcase your SaaS
 - [BacklinkDog](https://backlinkdog.com) - Backlink Monitoring. Stop losing SEO juice from removed or changed backlinks. 
 - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
