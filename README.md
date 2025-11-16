@@ -4,9 +4,11 @@ A fun and slightly chaotic list of **Awesome Sideprojects**.
 We group projects into random categories that have absolutely nothing to do with what they actually do. Why? Because it's fun and different! 🎉
 
 ## 🎩 Magical Mushrooms
-- [FlowDeck Studio](https://flowdeck.studio) - Build iOS & macOS Apps with AI in Cursor
+
 - [ConfettiSaaS](https://confettisaas.com) - Showcase your SaaS
 - [BacklinkDog](https://backlinkdog.com) - Backlink Monitoring. Stop losing SEO juice from removed or changed backlinks. 
+- [A/B test Live](https://abtest.live) - A/B Test Ideas Fast. Choose What Works.
+- [FlowDeck Studio](https://flowdeck.studio) - Build iOS & macOS Apps with AI in Cursor
 - [Tracker - Manager for Bluesky](https://linktr.ee/bluesky.tracker) - A mobile app for real-time tracking & managing of your Bluesky followers & followings!
 - [Startup Listing](https://startuplist.ing) - A platform to list your startup and get discovered by the right people.
 - [TurboStarter](https://www.turbostarter.dev) - the Next.js, React Native (Expo) and WXT (Vite) SaaS production-ready starter kit. Launch your web, mobile app and browser extension with one-click boilerplate.
@@ -33,10 +35,10 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🛸 UFO Sightings
 
+- [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 - [SyncReads](https://syncreads.com) - Organize all the web content in one place. Save time on ads and distractions. Replace multiple apps. Read offline and sync your library across devices, anytime, anywhere.
 - [What The Food](https://whatthefood.io) - AI Food Detector That Serves As Shazam But For Meals. 
 - [Byte Back](https://byteback.pro) - SaaS Customer Retention Platform with Cashback
-- [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 - [Just Booked](https://justbooked.mjit.in) - Simple Appointment, Venue, Calendar Booking Admin Application
 - [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 - [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
@@ -50,9 +52,9 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🦄 Unicorn Sightings
 
+- [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [seofordev](https://seofor.dev) - CLI-first SEO for indiehackers who want to rank from Day 1.
 - [Envin](https://envin.turbostarter.dev) - Framework-agnostic, type-safe tool to validate and preview your environment variables - powered by your favorite schema validator.
-- [ShowUpInAI](https://showupinai.com) - Your website isn’t showing up in ChatGPT? Fix it.
 - [Biz2Buzz](https://biz2buzz.in) - Your E Visiting Card! Express who are you, what you have, why to reach you with easy QR and vCard download
 - [DecipherSEO](https://decipherseo.com) - Your SEO solution for Ecommerce, Create SEO Optimized Products from images.
 - [DocPilot](https://docpilot.dev/) - Beautiful, interactive API docs right from your codebase
