@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [Touched Grass](https://www.touched-grass.com) - Show the world you've touched grass. Create your badge and share it everywhere.
 - [ConfettiSaaS](https://confettisaas.com) - Showcase your SaaS
 - [BacklinkDog](https://backlinkdog.com) - Backlink Monitoring. Stop losing SEO juice from removed or changed backlinks. 
 - [A/B test Live](https://abtest.live) - A/B Test Ideas Fast. Choose What Works.
