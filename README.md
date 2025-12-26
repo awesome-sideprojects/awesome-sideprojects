@@ -63,6 +63,8 @@ We group projects into random categories that have absolutely nothing to do with
 - [Latwy](https://latwy.co) - Track your finances in Notion automatically.
 - [supastarter](https://supastarter.dev) - The production-ready and scalable SaaS starter kit for Next.js, Nuxt and SvelteKit
 - [NameScore](https://namescore.io) - From startups to corporates - NameScore ensures your name is ready for the market.
+- [QRDX](https://qrdx.dev) - Create and customize beautiful QR codes for your business
+- [bucharitesh.in](https://bucharitesh.in) - Developer portfolio & craft showcase with beautiful React/Next.js components for modern web apps
 
 ## 🍕 Pizza Archaeology
 
