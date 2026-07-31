@@ -35,6 +35,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
 - [Saassy Board](https://saassy-board.com) - List your SaaS, earn monthly cash, help feed people in need!
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose web utilities for makers — domain name generator, OG image generator, AI background remover (runs locally), favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI content disclosure (EU AI Act), and AI robots.txt generator. No signup, browser-based, open source.
 
 ## 🛸 UFO Sightings
 
