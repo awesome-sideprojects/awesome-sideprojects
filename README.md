@@ -6,6 +6,7 @@ We group projects into random categories that have absolutely nothing to do with
 ## 🎩 Magical Mushrooms
 
 - [Blackfriday Deals 🤑](https://blackfriday.tools) - Four days a year. Every deal that matters.
+- [Outbid.lol directory](https://outbid-directory.lol) - Every outbid.lol clone, in one place.
 - [tweet.md](https://tweet.md) - Replace x.com with tweet.md in any post, article or profile URL - get back clean Markdown.
 - [Touched Grass](https://www.touched-grass.com) - Show the world you've touched grass. Create your badge and share it everywhere.
 - [ConfettiSaaS](https://confettisaas.com) - Showcase your SaaS
