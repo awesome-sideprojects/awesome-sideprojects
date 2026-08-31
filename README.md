@@ -5,6 +5,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🎩 Magical Mushrooms
 
+- [Ibis](https://cartonpliant.github.io/ibis/) - Your offer on one page, in the browser. Free watermarked, Pro 9 €.
 - [Blackfriday Deals 🤑](https://blackfriday.tools) - Four days a year. Every deal that matters.
 - [Outbid.lol directory](https://outbid-directory.lol) - Every outbid.lol clone, in one place.
 - [tweet.md](https://tweet.md) - Replace x.com with tweet.md in any post, article or profile URL - get back clean Markdown.
