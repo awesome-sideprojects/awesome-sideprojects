@@ -90,6 +90,8 @@ We group projects into random categories that have absolutely nothing to do with
 - [AI Agent](https://aiagent.surf) - Build AI browser agent for free
 - [TAPA](https://tapachat.com) - 1 site to chat with all AI models and learn how to use them well.
 
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) - Browser-based workspace for GPT, Gemini, and Grok chat, image generation, and everyday productivity workflows.
+
 ## 🎸 Air Guitar Championships
 
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
