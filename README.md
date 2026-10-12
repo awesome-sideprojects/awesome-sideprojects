@@ -69,6 +69,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [NameScore](https://namescore.io) - From startups to corporates - NameScore ensures your name is ready for the market.
 - [QRDX](https://qrdx.dev) - Create and customize beautiful QR codes for your business
 - [bucharitesh.in](https://bucharitesh.in) - Developer portfolio & craft showcase with beautiful React/Next.js components for modern web apps
+- [SolidPing](https://www.solidping.io) - Open-source uptime and synthetic monitoring with status pages and alerting. Free hosted tier or self-host it as a single Go binary.
 
 ## 🍕 Pizza Archaeology
 
