@@ -47,6 +47,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Just Booked](https://justbooked.mjit.in) - Simple Appointment, Venue, Calendar Booking Admin Application
 - [AIThumbnail.so](https://aithumbnail.so) - Create Viral Thumbnail for your Youtube Brand
 - [Phare.io](https://phare.io/) - Uptime monitoring, alerts, incidents, and status pages, in a shockingly good platform.
+- [Telemetry Tracker](https://telemetry-tracker.com) - Open-source error tracker for side projects: grouped errors, source maps, alerts. Self-host or free hosted plan.
 - [The Tools Time](https://toolstimes.com) - Discover tools to help you make money & save time
 - [millionship.dev](https://millionship.dev) - playful directory app for indie devs 🏴‍☠️
 - [affiliationlist.com](https://affiliationlist.com) - Submit you affiliation program, and be promoted by content creator
