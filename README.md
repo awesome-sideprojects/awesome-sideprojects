@@ -72,6 +72,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🍕 Pizza Archaeology
 
+- [Discover Alone](https://discoveralone.com/) - A free map of a million-plus places across Ireland and Britain, with Explorer Tom’s cheeky stories, useful tips and links to original records.
 - [Extro](https://git.new/extro) - Open source browser extension starter kit 🧩
 - [GptWatermarkRemover](https://gpt-watermark-remover.com) - Remove invisible watermarks from GPT text content
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
@@ -82,6 +83,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🌮 Taco Philosophy
 
+- [Dagmor](https://dagmor.app/) - Turn recorded calls into transcripts, script checks, Hero Scores, conduct, coverage, trends and customer-word reports; use the review screens or send calls and get reports.
 - [TheBlue.social](https://theblue.social) - Bluesky analytics, Bluesky+X post scheduling and tools
 - [EngagementSpark](https://engagementspark.xyz/) - Find real user problems on Reddit and turn them into content ideas.
 - [PagePrism](https://pageprism.com) - Awesome Website / Saas Uptime Monitor ( Free and Paid )
