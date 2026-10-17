@@ -37,6 +37,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
 - [Saassy Board](https://saassy-board.com) - List your SaaS, earn monthly cash, help feed people in need!
+- [OTF Fitness & Wellness Kit](https://otf-kit.dev/templates/fitness-kit?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-sideprojects-fitness) - $99 Expo fitness app starter with workout tracking, activity rings and nutrition. [Try the live demo](https://fitness-preview.otf-kit.dev).
 
 ## 🛸 UFO Sightings
 
