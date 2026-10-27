@@ -37,6 +37,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
 - [Saassy Board](https://saassy-board.com) - List your SaaS, earn monthly cash, help feed people in need!
+- [Fitness OS](https://korey2028.tech/work/fitness-os.html) - Coaching workflow workbench built from personally serving 40+ gym members, with an interactive demo.
 
 ## 🛸 UFO Sightings
 
