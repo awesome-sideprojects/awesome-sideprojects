@@ -89,7 +89,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Fyzz.chat](https://www.fyzz.chat/chat) - All of the best language models in one place
 - [AI Agent](https://aiagent.surf) - Build AI browser agent for free
 - [TAPA](https://tapachat.com) - 1 site to chat with all AI models and learn how to use them well.
-- [Prompt Generator](https://trypromptgenerator.com) - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free, no sign-up.
+- [Prompt Generator](https://trypromptgenerator.com) - Writes prompts for ChatGPT, Claude, Midjourney, Veo and other AI tools. Free daily allowance, no sign-up.
 
 ## 🎸 Air Guitar Championships
 
