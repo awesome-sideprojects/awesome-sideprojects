@@ -40,6 +40,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🛸 UFO Sightings
 
+- [ROB RUN Wiki](https://www.robrun-game.com/) - Free guides for getting started, joining friends on another server, and preparing for Federal Raid resets in Kefir’s ROB RUN.
 - [RealTime.Blue](https://realtime.blue) - Free Bluesky analytics & tracking
 - [SyncReads](https://syncreads.com) - Organize all the web content in one place. Save time on ads and distractions. Replace multiple apps. Read offline and sync your library across devices, anytime, anywhere.
 - [What The Food](https://whatthefood.io) - AI Food Detector That Serves As Shazam But For Meals. 
