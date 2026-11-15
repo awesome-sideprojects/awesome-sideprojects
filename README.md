@@ -98,6 +98,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [10AppDeals](https://10appdeals.com) - 10 handpicked app deals every day.
 - [GetAndon](https://getandon.com) - A hackable desklamp that Claude / cursor can control through MCP. Ambiently lets you know what the agents are doing while you're alt tabbed or away from your desk.
 - [RunCue](https://runcue.fly.dev/launch) - Synced countdown timer with separate control, stage, and audience links plus private producer cues, for webinars, podcasts, and live-streamed events.
+- [No Stairs Please](https://nostairsplease.com/mcp) - Free live-music venue directory and remote MCP server for independent musicians, touring bands, and talent buyers across the US and Canada.
 
 ---
 
