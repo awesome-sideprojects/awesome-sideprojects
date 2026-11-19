@@ -72,6 +72,7 @@ We group projects into random categories that have absolutely nothing to do with
 
 ## 🍕 Pizza Archaeology
 
+- [GuessCrowd](https://guesscrowd.com/) - A free daily browser game about predicting the most popular answers to five survey questions.
 - [Extro](https://git.new/extro) - Open source browser extension starter kit 🧩
 - [GptWatermarkRemover](https://gpt-watermark-remover.com) - Remove invisible watermarks from GPT text content
 - [ConfettiSaaS](https://confettisaas.com) - Confetii-Powered Projects Directory
