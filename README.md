@@ -94,6 +94,8 @@ We group projects into random categories that have absolutely nothing to do with
 
 - [Video Summarizer](https://summarizevideo.ai) - Video summarizer service
 - [KeyStrokes](https://www.keystrok.es) - Automated Typing for Video Tutorials
+- [My Dailies](https://bestdaily.games/my-daily/) - Keep a personal checklist of daily browser puzzles, with completion saved locally and a reset at local midnight.
+- [Puffer Party](https://pufferparty.org/) - Play a multiplayer browser word game where friends name items in a category and pass the puffer before the fuse expires.
 - [Follow Monday](https://followmonday.com) - Discover active individuals on socials
 - [10AppDeals](https://10appdeals.com) - 10 handpicked app deals every day.
 - [GetAndon](https://getandon.com) - A hackable desklamp that Claude / cursor can control through MCP. Ambiently lets you know what the agents are doing while you're alt tabbed or away from your desk.
