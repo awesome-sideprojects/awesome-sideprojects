@@ -37,6 +37,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [Wreny](https://www.wreny.app) - All in one job hunting platform.
 - [Leedlime](https://leedlime.com) - find leads from Reddit
 - [Saassy Board](https://saassy-board.com) - List your SaaS, earn monthly cash, help feed people in need!
+- [Moolean](https://moolean.onrender.com/en) - Anonymous worldwide mood map. Leave a good or bad mood and one optional line. Glowing dots fade after three hours.
 
 ## 🛸 UFO Sightings
 
