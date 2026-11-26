@@ -98,6 +98,7 @@ We group projects into random categories that have absolutely nothing to do with
 - [10AppDeals](https://10appdeals.com) - 10 handpicked app deals every day.
 - [GetAndon](https://getandon.com) - A hackable desklamp that Claude / cursor can control through MCP. Ambiently lets you know what the agents are doing while you're alt tabbed or away from your desk.
 - [RunCue](https://runcue.fly.dev/launch) - Synced countdown timer with separate control, stage, and audience links plus private producer cues, for webinars, podcasts, and live-streamed events.
+- [StagePeek](https://stagepeek.live/) - Interactive 2D seating charts and 3D concert stage-view simulator across 201 stadiums and arenas with 1x–10x camera zoom (free no-login first seat preview).
 
 ---
 
